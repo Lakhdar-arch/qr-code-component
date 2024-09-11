@@ -1,4 +1,6 @@
 qr-code-component: 
+the web-page has been deployed on the following link: https://lakhdar-arch.github.io/qr-code-component/
+
 
 here's what should appear in large device:
 
